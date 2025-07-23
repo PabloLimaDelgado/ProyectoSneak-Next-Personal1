@@ -1,0 +1,44 @@
+@import url("./fonts.css");
+
+@import "tailwindcss";
+
+@theme {
+  --color-gray-50: #383d42;
+  --color-gray-40: #6b727a;
+  --color-gray-30: #cfd2d6;
+  --color-gray-20: #e4e6e8;
+  --color-gray-10: #f3f4f6;
+}
+
+.custom-icon-button {
+  @apply size-10 p-2.5 border-1 rounded-sm 
+         transition duration-150 ease-in-out cursor-pointer;
+  border-color: var(--color-gray-20);
+}
+
+.custom-icon-button:hover {
+  @apply bg-[color:var(--color-gray-10)];
+}
+
+.custon-info-admin {
+  @apply border-1 border-[color:var(--color-gray-30)] items-center justify-start p-2 gap-3.5 rounded-md cursor-pointer;
+}
+
+.custom-div-skeleton {
+  @apply w-23/24 h-15 rounded-md border border-gray-300 bg-gray-200 animate-pulse;
+}
+
+.scrollbar-custom {
+  scrollbar-width: auto;
+}
+
+.scrollbar-custom::-webkit-scrollbar {
+  width: 10px;
+  height: 16px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: var(--color-gray-40);
+  border-radius: 10px;
+  border: 2px solid var(--color-gray-10);
+}

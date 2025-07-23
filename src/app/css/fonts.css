@@ -1,0 +1,134 @@
+/*BEBAS NEUE*/
+
+@font-face {
+  font-family: "Bebas Neue";
+  src: url("../fonts/bebasNeue//BebasNeue-Regular.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*ROBOTO*/
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/roboto//Roboto-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto-SemiBold";
+  src: url("../fonts/roboto//Roboto-SemiBold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto-SemiBoldItalic";
+  src: url("../fonts/roboto//Roboto-SemiBoldItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto_Condensed-Bold";
+  src: url("../fonts/roboto//Roboto_Condensed-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto_Condensed-BoldItalic";
+  src: url("../fonts/roboto//Roboto_Condensed-BoldItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto_SemiCondensed-Medium";
+  src: url("../fonts/roboto//Roboto_SemiCondensed-Medium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto_SemiCondensed-MediumItalic";
+  src: url("../fonts/roboto//Roboto_SemiCondensed-MediumItalic.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/*AFACAD*/
+
+@font-face {
+  font-family: "Afacad-Bold";
+  src: url("../fonts/afacad//Afacad-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-BoldItalic";
+  src: url("../fonts/afacad//Afacad-BoldItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-Italic";
+  src: url("../fonts/afacad//Afacad-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-Medium";
+  src: url("../fonts/afacad//Afacad-Medium.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-MediumItalic";
+  src: url("../fonts/afacad//Afacad-MediumItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-Regular";
+  src: url("../fonts/afacad//Afacad-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-SemiBold";
+  src: url("../fonts/afacad//Afacad-SemiBold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Afacad-SemiBoldItalic";
+  src: url("../fonts/afacad//Afacad-SemiBoldItalic.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
